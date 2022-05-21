@@ -4,7 +4,7 @@ header {
 }
 
 body {
-	background-color: blueviolet;
+	background-color: white;
 }
 
 p {
@@ -14,8 +14,8 @@ p {
 
 h1 {
 	text-align: center;
-	color: darkred;
-	font-size: 100px;
+	color: orange;
+	font-size: 70px;
 }
 
 nav a {
@@ -31,4 +31,8 @@ nav a {
 .popular {
 	background-color: blue;
 	color: royalblue;
+}
+img {
+	width: 700px
+	height: 800px
 }
