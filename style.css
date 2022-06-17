@@ -43,4 +43,27 @@ nav {
 nav a {
 	text-decoration: none;
 	color: 
+
+}
+
+nav a:hover{
+	font-size: 30px;
+	color: red;
+}
+
+div {
+	display: flex;
+   justify-content:start;
+   justify-content: space-between;
+   justify-content: space-around;
+}
+
+div img {
+	width: 40%;
+	border: 10px dashed cyan;
+	opacity: 0.5;
+}
+
+div img:hover {
+	opacity: 1;
 }
